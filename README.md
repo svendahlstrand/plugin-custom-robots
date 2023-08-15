@@ -2,7 +2,7 @@
 
 Decide the content of your Micro.blog's robots.txt file.
 
-![](https://raw.githubusercontent.com/svendahlstrand/plugin-search-space/main/docs/screenshot.png)
+![](https://raw.githubusercontent.com/svendahlstrand/plugin-custom-robots/main/vendor/microsoft/fluent-emoji-robot.png)
 
 > Want to stop ChatGPT from training on your content? Or kick Google's spiders off your blog? Then, this plug-in is for you!
 
