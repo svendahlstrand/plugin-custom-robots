@@ -24,7 +24,7 @@ Hello, fellow microblogger! 👋 This plug-in is available in the official direc
 
 ### Install the plug-in
 
-1. Find [Custom Robots in the plug-in directory](https://micro.blog/account/plugins/view/TODO).
+1. Find [Custom Robots in the plug-in directory](https://micro.blog/account/plugins/view/108).
 2. Choose the site you want to install the plug-in to.
 3. Press *Install*.
 4. Congratulations, the plug-in is installed.
