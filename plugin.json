@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "title": "Custom Robots",
+  "description": "Decide the content of your Micro.blog's robots.txt file.",
+  "fields": [
+    {
+      "field": "params.custom_robots_content",
+      "label": "robots.txt Content",
+      "type": "markdown"
+    }
+  ]
+}

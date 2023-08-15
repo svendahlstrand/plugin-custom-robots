@@ -1,0 +1,3 @@
+{{- $.Site.Params.custom_robots_content }}
+
+# This file was generated using Custom Robots Micro.blog plug-in by @sod.
