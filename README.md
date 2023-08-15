@@ -1,6 +1,6 @@
 # 🤖 Custom Robots
 
-Decide the content of your Micro.blog's robots.txt file.
+Craft your robots.txt with precision. Deny ChatGPT, Google, Yandex, or anyone from indexing or gobbling your Micro.blog posts.
 
 ![](https://raw.githubusercontent.com/svendahlstrand/plugin-custom-robots/main/vendor/microsoft/fluent-emoji-robot.png)
 
